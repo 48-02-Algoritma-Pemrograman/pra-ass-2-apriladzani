@@ -5,7 +5,7 @@ public class Hitung{
 
     public static ArrayList<Integer> data = new ArrayList<>();
     public static void main(String[] args){
-        Scanner input = new Scanner(System.in);
+        Scanner input = new Scanner(System.in); 
         /* Pekerjaan anda mulai dari sini */
          public static ArrayList<Integer> data = new ArrayList<>();
 
