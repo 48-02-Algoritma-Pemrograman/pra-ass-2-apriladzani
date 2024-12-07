@@ -40,6 +40,9 @@ public class Gaji{
         /* Pekerjaan anda mulai dari sini */
         Gaji();
         honorLembur(jamLembur);
+
+        System.out.println(honorLembur(jamLembur) + Gaji());
+     
         /* Pekerjaan anda berakhir sini */
 
         System.out.println(Gaji.class.getDeclaredMethods().length);
