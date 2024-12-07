@@ -41,7 +41,7 @@ public class Gaji{
         Gaji();
         honorLembur(jamLembur);
 
-        System.out.println(honorLembur(jamLembur) + Gaji());
+        System.out.println(honorLembur(jamLembur) + Gaji()); 
      
         /* Pekerjaan anda berakhir sini */
 
